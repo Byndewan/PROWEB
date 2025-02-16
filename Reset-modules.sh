@@ -1,5 +1,5 @@
 # Masuk ke direktori project Laravel
-cd C:\xampp\htdocs\Progress_Web
+cd C:/xampp/htdocs/Progress_Web
 
 # Mengembalikan perubahan ke versi terakhir di-commit
 git reset --hard HEAD
